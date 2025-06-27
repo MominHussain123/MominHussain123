@@ -8,7 +8,7 @@
 <h2 align="center">Hi 👋, I'm Momin Hussain</h2>
 
 <p align="center">
-  A passionate <b>Full Stack Web Developer</b> who loves building fast, responsive, and scalable web apps using modern technologies.
+  A passionate <b>Web Developer</b> who loves building fast, responsive, and scalable web apps using modern technologies.
 </p>
 
 ---
