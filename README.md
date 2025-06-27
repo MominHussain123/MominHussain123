@@ -7,7 +7,7 @@
 <h2 align="center">Hi 👋, I'm Momin Hussain</h2>
 
 <p align="center">
-  A passionate <b>Full Stack Web Developer</b> who loves building fast, responsive, and scalable web apps using modern technologies like <code>React</code>, <code>Node.js</code>, <code>Tailwind CSS</code>, <code>Firebase</code>, and more.
+  A passionate <b>Full Stack Web Developer</b> who loves building fast, responsive, and scalable web apps using modern technologies.
 </p>
 
 ---
