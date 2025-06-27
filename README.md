@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Momin%20Hussain&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Open%20Source%20Contributor&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Momin%20Hussain&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Open%20Source%20Contributor&descAlignY=60&fontColor=ffffff" />
 </p>
+
 
 <!-- Introduction -->
 <h2 align="center">Hi 👋, I'm Momin Hussain</h2>
